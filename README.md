@@ -13,3 +13,5 @@ https://nesnah1307.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Mack
+
+### ©️2019 Run Buddy, Inc
